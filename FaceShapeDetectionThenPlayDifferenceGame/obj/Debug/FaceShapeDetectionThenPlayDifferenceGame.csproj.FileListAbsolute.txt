@@ -1,0 +1,1 @@
+C:\Users\Taha_\Desktop\FaceShapeDetectionThenPlayDifferenceGame\Face_Detection_Extract_Faces\bin\Debug\FaceShapeDetectionThenPlayDifferenceGame.exe.config

@@ -1,0 +1,240 @@
+E:\HumanCompuerInteraction\Projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Face_Detection_Extract_Faces.exe.config
+E:\HumanCompuerInteraction\Projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\cublas32_42_9.dll
+E:\HumanCompuerInteraction\Projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\cudart32_42_9.dll
+E:\HumanCompuerInteraction\Projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\cufft32_42_9.dll
+E:\HumanCompuerInteraction\Projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\cvextern.dll
+E:\HumanCompuerInteraction\Projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\cvextern_gpu.dll
+E:\HumanCompuerInteraction\Projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\haarcascade_frontalface_default.xml
+E:\HumanCompuerInteraction\Projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\npp32_42_9.dll
+E:\HumanCompuerInteraction\Projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_calib3d240.dll
+E:\HumanCompuerInteraction\Projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_contrib240.dll
+E:\HumanCompuerInteraction\Projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_core240.dll
+E:\HumanCompuerInteraction\Projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_features2d240.dll
+E:\HumanCompuerInteraction\Projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_ffmpeg240.dll
+E:\HumanCompuerInteraction\Projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_flann240.dll
+E:\HumanCompuerInteraction\Projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_gpu240.dll
+E:\HumanCompuerInteraction\Projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_highgui240.dll
+E:\HumanCompuerInteraction\Projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_imgproc240.dll
+E:\HumanCompuerInteraction\Projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_legacy240.dll
+E:\HumanCompuerInteraction\Projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_ml240.dll
+E:\HumanCompuerInteraction\Projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_nonfree240.dll
+E:\HumanCompuerInteraction\Projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_objdetect240.dll
+E:\HumanCompuerInteraction\Projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_photo240.dll
+E:\HumanCompuerInteraction\Projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_stitching240.dll
+E:\HumanCompuerInteraction\Projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_video240.dll
+E:\HumanCompuerInteraction\Projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_videostab240.dll
+E:\HumanCompuerInteraction\Projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Face_Detection_Extract_Faces.exe
+E:\HumanCompuerInteraction\Projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Face_Detection_Extract_Faces.pdb
+E:\HumanCompuerInteraction\Projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+E:\HumanCompuerInteraction\Projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.dll
+E:\HumanCompuerInteraction\Projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.GPU.dll
+E:\HumanCompuerInteraction\Projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.ML.dll
+E:\HumanCompuerInteraction\Projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.OCR.dll
+E:\HumanCompuerInteraction\Projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.Stitching.dll
+E:\HumanCompuerInteraction\Projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.UI.dll
+E:\HumanCompuerInteraction\Projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.Util.dll
+E:\HumanCompuerInteraction\Projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\ZedGraph.dll
+E:\HumanCompuerInteraction\Projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.xml
+E:\HumanCompuerInteraction\Projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.GPU.xml
+E:\HumanCompuerInteraction\Projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.ML.xml
+E:\HumanCompuerInteraction\Projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.OCR.xml
+E:\HumanCompuerInteraction\Projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.Stitching.xml
+E:\HumanCompuerInteraction\Projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.UI.xml
+E:\HumanCompuerInteraction\Projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.Util.xml
+E:\HumanCompuerInteraction\Projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\obj\Debug\Face_Detection_Extract_Faces.csprojResolveAssemblyReference.cache
+E:\HumanCompuerInteraction\Projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\obj\Debug\Face_Detection_Extract_Faces.Form1.resources
+E:\HumanCompuerInteraction\Projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\obj\Debug\Face_Detection_Extract_Faces.Properties.Resources.resources
+E:\HumanCompuerInteraction\Projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\obj\Debug\Face_Detection_Extract_Faces.csproj.GenerateResource.Cache
+E:\HumanCompuerInteraction\Projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\obj\Debug\Face_Detection_Extract_Faces.exe
+E:\HumanCompuerInteraction\Projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\obj\Debug\Face_Detection_Extract_Faces.pdb
+D:\Basic Topic\Fcih\Subjects\3 rd year second term\selected 2\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Face_Detection_Extract_Faces.exe.config
+D:\Basic Topic\Fcih\Subjects\3 rd year second term\selected 2\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\obj\Debug\Face_Detection_Extract_Faces.exe
+D:\Basic Topic\Fcih\Subjects\3 rd year second term\selected 2\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\obj\Debug\Face_Detection_Extract_Faces.pdb
+D:\Basic Topic\Fcih\Subjects\3 rd year second term\selected 2\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\cublas32_42_9.dll
+D:\Basic Topic\Fcih\Subjects\3 rd year second term\selected 2\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\cudart32_42_9.dll
+D:\Basic Topic\Fcih\Subjects\3 rd year second term\selected 2\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\cufft32_42_9.dll
+D:\Basic Topic\Fcih\Subjects\3 rd year second term\selected 2\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\cvextern.dll
+D:\Basic Topic\Fcih\Subjects\3 rd year second term\selected 2\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\cvextern_gpu.dll
+D:\Basic Topic\Fcih\Subjects\3 rd year second term\selected 2\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\haarcascade_frontalface_default.xml
+D:\Basic Topic\Fcih\Subjects\3 rd year second term\selected 2\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\npp32_42_9.dll
+D:\Basic Topic\Fcih\Subjects\3 rd year second term\selected 2\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_calib3d240.dll
+D:\Basic Topic\Fcih\Subjects\3 rd year second term\selected 2\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_contrib240.dll
+D:\Basic Topic\Fcih\Subjects\3 rd year second term\selected 2\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_core240.dll
+D:\Basic Topic\Fcih\Subjects\3 rd year second term\selected 2\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_features2d240.dll
+D:\Basic Topic\Fcih\Subjects\3 rd year second term\selected 2\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_ffmpeg240.dll
+D:\Basic Topic\Fcih\Subjects\3 rd year second term\selected 2\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_flann240.dll
+D:\Basic Topic\Fcih\Subjects\3 rd year second term\selected 2\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_gpu240.dll
+D:\Basic Topic\Fcih\Subjects\3 rd year second term\selected 2\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_highgui240.dll
+D:\Basic Topic\Fcih\Subjects\3 rd year second term\selected 2\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_imgproc240.dll
+D:\Basic Topic\Fcih\Subjects\3 rd year second term\selected 2\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_legacy240.dll
+D:\Basic Topic\Fcih\Subjects\3 rd year second term\selected 2\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_ml240.dll
+D:\Basic Topic\Fcih\Subjects\3 rd year second term\selected 2\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_nonfree240.dll
+D:\Basic Topic\Fcih\Subjects\3 rd year second term\selected 2\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_objdetect240.dll
+D:\Basic Topic\Fcih\Subjects\3 rd year second term\selected 2\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_photo240.dll
+D:\Basic Topic\Fcih\Subjects\3 rd year second term\selected 2\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_stitching240.dll
+D:\Basic Topic\Fcih\Subjects\3 rd year second term\selected 2\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_video240.dll
+D:\Basic Topic\Fcih\Subjects\3 rd year second term\selected 2\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_videostab240.dll
+D:\Basic Topic\Fcih\Subjects\3 rd year second term\selected 2\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Face_Detection_Extract_Faces.exe
+D:\Basic Topic\Fcih\Subjects\3 rd year second term\selected 2\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Face_Detection_Extract_Faces.pdb
+D:\Basic Topic\Fcih\Subjects\3 rd year second term\selected 2\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+D:\Basic Topic\Fcih\Subjects\3 rd year second term\selected 2\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.dll
+D:\Basic Topic\Fcih\Subjects\3 rd year second term\selected 2\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.GPU.dll
+D:\Basic Topic\Fcih\Subjects\3 rd year second term\selected 2\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.ML.dll
+D:\Basic Topic\Fcih\Subjects\3 rd year second term\selected 2\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.OCR.dll
+D:\Basic Topic\Fcih\Subjects\3 rd year second term\selected 2\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.Stitching.dll
+D:\Basic Topic\Fcih\Subjects\3 rd year second term\selected 2\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.UI.dll
+D:\Basic Topic\Fcih\Subjects\3 rd year second term\selected 2\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.Util.dll
+D:\Basic Topic\Fcih\Subjects\3 rd year second term\selected 2\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\ZedGraph.dll
+D:\Basic Topic\Fcih\Subjects\3 rd year second term\selected 2\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.xml
+D:\Basic Topic\Fcih\Subjects\3 rd year second term\selected 2\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.GPU.xml
+D:\Basic Topic\Fcih\Subjects\3 rd year second term\selected 2\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.ML.xml
+D:\Basic Topic\Fcih\Subjects\3 rd year second term\selected 2\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.OCR.xml
+D:\Basic Topic\Fcih\Subjects\3 rd year second term\selected 2\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.Stitching.xml
+D:\Basic Topic\Fcih\Subjects\3 rd year second term\selected 2\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.UI.xml
+D:\Basic Topic\Fcih\Subjects\3 rd year second term\selected 2\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.Util.xml
+D:\Basic Topic\Fcih\Subjects\3 rd year second term\selected 2\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\obj\Debug\Face_Detection_Extract_Faces.csprojResolveAssemblyReference.cache
+D:\Basic Topic\Fcih\Subjects\3 rd year second term\selected 2\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\obj\Debug\Face_Detection_Extract_Faces.Form1.resources
+D:\Basic Topic\Fcih\Subjects\3 rd year second term\selected 2\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\obj\Debug\Face_Detection_Extract_Faces.Properties.Resources.resources
+D:\Basic Topic\Fcih\Subjects\3 rd year second term\selected 2\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\obj\Debug\Face_Detection_Extract_Faces.csproj.GenerateResource.Cache
+D:\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\cublas32_42_9.dll
+D:\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\cudart32_42_9.dll
+D:\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\cufft32_42_9.dll
+D:\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\cvextern.dll
+D:\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\cvextern_gpu.dll
+D:\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\haarcascade_frontalface_default.xml
+D:\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\npp32_42_9.dll
+D:\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_calib3d240.dll
+D:\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_contrib240.dll
+D:\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_core240.dll
+D:\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_features2d240.dll
+D:\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_ffmpeg240.dll
+D:\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_flann240.dll
+D:\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_gpu240.dll
+D:\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_highgui240.dll
+D:\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_imgproc240.dll
+D:\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_legacy240.dll
+D:\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_ml240.dll
+D:\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_nonfree240.dll
+D:\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_objdetect240.dll
+D:\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_photo240.dll
+D:\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_stitching240.dll
+D:\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_video240.dll
+D:\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_videostab240.dll
+D:\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Face_Detection_Extract_Faces.exe.config
+D:\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Face_Detection_Extract_Faces.exe
+D:\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Face_Detection_Extract_Faces.pdb
+D:\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+D:\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.dll
+D:\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.GPU.dll
+D:\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.ML.dll
+D:\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.OCR.dll
+D:\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.Stitching.dll
+D:\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.UI.dll
+D:\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.Util.dll
+D:\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\ZedGraph.dll
+D:\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.xml
+D:\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.GPU.xml
+D:\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.ML.xml
+D:\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.OCR.xml
+D:\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.Stitching.xml
+D:\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.UI.xml
+D:\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.Util.xml
+D:\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\obj\Debug\Face_Detection_Extract_Faces.Form1.resources
+D:\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\obj\Debug\Face_Detection_Extract_Faces.Properties.Resources.resources
+D:\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\obj\Debug\Face_Detection_Extract_Faces.csproj.GenerateResource.Cache
+D:\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\obj\Debug\Face_Detection_Extract_Faces.exe
+D:\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\obj\Debug\Face_Detection_Extract_Faces.pdb
+D:\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\obj\Debug\Face_Detection_Extract_Faces.csprojResolveAssemblyReference.cache
+D:\Practise projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Face_Detection_Extract_Faces.exe.config
+D:\Practise projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\obj\Debug\Face_Detection_Extract_Faces.exe
+D:\Practise projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\obj\Debug\Face_Detection_Extract_Faces.pdb
+D:\Practise projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\cublas32_42_9.dll
+D:\Practise projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\cudart32_42_9.dll
+D:\Practise projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\cufft32_42_9.dll
+D:\Practise projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\cvextern.dll
+D:\Practise projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\cvextern_gpu.dll
+D:\Practise projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\haarcascade_frontalface_default.xml
+D:\Practise projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\npp32_42_9.dll
+D:\Practise projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_calib3d240.dll
+D:\Practise projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_contrib240.dll
+D:\Practise projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_core240.dll
+D:\Practise projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_features2d240.dll
+D:\Practise projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_ffmpeg240.dll
+D:\Practise projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_flann240.dll
+D:\Practise projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_gpu240.dll
+D:\Practise projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_highgui240.dll
+D:\Practise projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_imgproc240.dll
+D:\Practise projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_legacy240.dll
+D:\Practise projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_ml240.dll
+D:\Practise projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_nonfree240.dll
+D:\Practise projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_objdetect240.dll
+D:\Practise projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_photo240.dll
+D:\Practise projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_stitching240.dll
+D:\Practise projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_video240.dll
+D:\Practise projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_videostab240.dll
+D:\Practise projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Face_Detection_Extract_Faces.exe
+D:\Practise projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Face_Detection_Extract_Faces.pdb
+D:\Practise projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2010.dll
+D:\Practise projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.dll
+D:\Practise projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.GPU.dll
+D:\Practise projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.ML.dll
+D:\Practise projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.OCR.dll
+D:\Practise projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.Stitching.dll
+D:\Practise projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.UI.dll
+D:\Practise projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.Util.dll
+D:\Practise projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\ZedGraph.dll
+D:\Practise projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.xml
+D:\Practise projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.GPU.xml
+D:\Practise projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.ML.xml
+D:\Practise projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.OCR.xml
+D:\Practise projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.Stitching.xml
+D:\Practise projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.UI.xml
+D:\Practise projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.Util.xml
+D:\Practise projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\obj\Debug\Face_Detection_Extract_Faces.csprojResolveAssemblyReference.cache
+D:\Practise projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\obj\Debug\Face_Detection_Extract_Faces.Form1.resources
+D:\Practise projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\obj\Debug\Face_Detection_Extract_Faces.Properties.Resources.resources
+D:\Practise projects\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\obj\Debug\Face_Detection_Extract_Faces.csproj.GenerateResource.Cache
+D:\GitHubGeneral\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Face_Detection_Extract_Faces.exe.config
+D:\GitHubGeneral\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\obj\Debug\Face_Detection_Extract_Faces.exe
+D:\GitHubGeneral\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\obj\Debug\Face_Detection_Extract_Faces.pdb
+D:\GitHubGeneral\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\cublas32_42_9.dll
+D:\GitHubGeneral\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\cudart32_42_9.dll
+D:\GitHubGeneral\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\cufft32_42_9.dll
+D:\GitHubGeneral\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\cvextern.dll
+D:\GitHubGeneral\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\cvextern_gpu.dll
+D:\GitHubGeneral\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\haarcascade_frontalface_default.xml
+D:\GitHubGeneral\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\npp32_42_9.dll
+D:\GitHubGeneral\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_calib3d240.dll
+D:\GitHubGeneral\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_contrib240.dll
+D:\GitHubGeneral\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_core240.dll
+D:\GitHubGeneral\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_features2d240.dll
+D:\GitHubGeneral\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_ffmpeg240.dll
+D:\GitHubGeneral\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_flann240.dll
+D:\GitHubGeneral\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_gpu240.dll
+D:\GitHubGeneral\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_highgui240.dll
+D:\GitHubGeneral\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_imgproc240.dll
+D:\GitHubGeneral\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_legacy240.dll
+D:\GitHubGeneral\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_ml240.dll
+D:\GitHubGeneral\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_nonfree240.dll
+D:\GitHubGeneral\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_objdetect240.dll
+D:\GitHubGeneral\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_photo240.dll
+D:\GitHubGeneral\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_stitching240.dll
+D:\GitHubGeneral\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_video240.dll
+D:\GitHubGeneral\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\opencv_videostab240.dll
+D:\GitHubGeneral\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Face_Detection_Extract_Faces.exe
+D:\GitHubGeneral\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Face_Detection_Extract_Faces.pdb
+D:\GitHubGeneral\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\ZedGraph.dll
+D:\GitHubGeneral\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.xml
+D:\GitHubGeneral\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.GPU.xml
+D:\GitHubGeneral\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.ML.xml
+D:\GitHubGeneral\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.OCR.xml
+D:\GitHubGeneral\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.Stitching.xml
+D:\GitHubGeneral\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.CV.UI.xml
+D:\GitHubGeneral\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\bin\Debug\Emgu.Util.xml
+D:\GitHubGeneral\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\obj\Debug\Face_Detection_Extract_Faces.csprojResolveAssemblyReference.cache
+D:\GitHubGeneral\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\obj\Debug\Face_Detection_Extract_Faces.Form1.resources
+D:\GitHubGeneral\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\obj\Debug\Face_Detection_Extract_Faces.Properties.Resources.resources
+D:\GitHubGeneral\Face_Detection_Extract_Faces\Face_Detection_Extract_Faces\obj\Debug\Face_Detection_Extract_Faces.csproj.GenerateResource.Cache
+C:\Users\Taha_\Desktop\FaceShapeDetectionThenPlayDifferenceGame\Face_Detection_Extract_Faces\bin\Debug\Face_Detection_Extract_Faces.exe.config
+C:\Users\Taha_\Desktop\FaceShapeDetectionThenPlayDifferenceGame\Face_Detection_Extract_Faces\obj\Debug\Face_Detection_Extract_Faces.exe
+C:\Users\Taha_\Desktop\FaceShapeDetectionThenPlayDifferenceGame\Face_Detection_Extract_Faces\obj\Debug\Face_Detection_Extract_Faces.pdb
