@@ -1,4 +1,4 @@
-This project contain 3 Tasks :
+This project contains 3 Tasks :
 1 - Shape Detection
 2 - Face Detection
 3 - Difference Game
